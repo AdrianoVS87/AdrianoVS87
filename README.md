@@ -118,11 +118,11 @@ Built with Team NOR Space for the NASA International Space Apps Challenge — sa
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdrianoVS87/AdrianoVS87/main/achievements.svg" alt="Achievements" />
+<img src="https://github-trophies.vercel.app/?username=AdrianoVS87&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
