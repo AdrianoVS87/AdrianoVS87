@@ -12,7 +12,7 @@ AI-Augmented · Building AI Agent Infrastructure
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdrianoVS87)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AdrianoVS87)
+[![X](https://img.shields.io/badge/@AdrianoVS87-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AdrianoVS87)
 [![HookWatch](https://img.shields.io/badge/HookWatch-6366F1?style=for-the-badge&logo=webhook&logoColor=white)](https://hookwatch-one.vercel.app)
 
 </div>
@@ -26,7 +26,7 @@ name: Adriano Viera dos Santos
 role: Senior Software Engineer
 focus: Backend-first Full Stack · AI Agent Infrastructure
 location: Jurerê, Florianópolis, Brazil
-experience: 10+ years shipping production systems
+experience: 4+ years shipping production systems
 current: Building HookWatch — observability for AI agents
 approach: AI-augmented development with human-driven architecture
 ```
