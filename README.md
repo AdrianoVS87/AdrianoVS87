@@ -132,21 +132,7 @@ Built with Team NOR Space for the NASA International Space Apps Challenge — sa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoVS87&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianoVS87/AdrianoVS87/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianoVS87/AdrianoVS87/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdrianoVS87/AdrianoVS87/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoVS87&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1" alt="Contribution Graph" />
 
 </div>
 
