@@ -24,7 +24,7 @@ AI-Augmented · Building AI Agent Infrastructure
 ```yaml
 name: Adriano Viera dos Santos
 role: Senior Software Engineer
-focus: Backend-first Full Stack · AI Agent Infrastructure
+focus: Fullstack Software Engineer · AI Agent Infrastructure
 location: Jurerê, Florianópolis, Brazil
 experience: 4+ years shipping production systems
 current: Building HookWatch — observability for AI agents
