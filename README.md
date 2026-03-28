@@ -122,7 +122,7 @@ Built with Team NOR Space for the NASA International Space Apps Challenge — sa
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=AdrianoVS87&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=AdrianoVS87&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 
 </div>
 
