@@ -112,7 +112,7 @@ Built with Team NOR Space for the NASA International Space Apps Challenge — sa
 
 <br/>
 
-<img width="40%" src="https://my-github-stats-flax.vercel.app/api/top-langs/?username=AdrianoVS87&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,PowerShell,SCSS&exclude_repo=Complete-Python-3-Bootcamp,Checkpoint-Integrador,configs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://my-github-stats-flax.vercel.app/api/top-langs/?username=AdrianoVS87&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,PowerShell,SCSS&exclude_repo=Complete-Python-3-Bootcamp,Checkpoint-Integrador,configs,nasa-safeOutdoor,safe-outdoor-app,adrianovs-net,my-portfolio-page,react-contacts-app,react-essentials-start,projetoFront2,Projeto_HTML_CSS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
