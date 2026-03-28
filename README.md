@@ -107,12 +107,12 @@ Built with Team NOR Space for the NASA International Space Apps Challenge — sa
 
 <div align="center">
 
-<img width="49%" src="https://grs-deploy-three.vercel.app/api?username=AdrianoVS87&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats" />
+<img width="49%" src="https://my-github-stats-flax.vercel.app/api?username=AdrianoVS87&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=AdrianoVS87&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 <br/>
 
-<img width="40%" src="https://grs-deploy-three.vercel.app/api/top-langs/?username=AdrianoVS87&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,PowerShell,SCSS&exclude_repo=Complete-Python-3-Bootcamp,Checkpoint-Integrador,configs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://my-github-stats-flax.vercel.app/api/top-langs/?username=AdrianoVS87&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,PowerShell,SCSS&exclude_repo=Complete-Python-3-Bootcamp,Checkpoint-Integrador,configs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
