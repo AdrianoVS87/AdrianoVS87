@@ -107,7 +107,7 @@ Built with Team NOR Space for the NASA International Space Apps Challenge — sa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdrianoVS87&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdrianoVS87&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoVS87&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 <br/>
